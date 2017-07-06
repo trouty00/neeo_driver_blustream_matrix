@@ -1,6 +1,6 @@
 {
   "name": "neeo_driver_blustream_matrix",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "description": "A simple NEEO driver to enable LAN control of a Blustream HDMatrix",
   "main": "index.js",
   "scripts": {
